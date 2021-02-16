@@ -1,4 +1,31 @@
 @
+Zentrale Hochschulbibliothek Lübeck
+Ratzeburger Alle 160 - Haus 60
+23562 Lübeck
+
++49 451 3101-2201
++49 451 3101-2204
+
+zhb.info@uni-luebeck.de.de
+
+http://www.zhb.uni-luebeck.de
+
+Mo-Fr 9.00 Uhr - 22.30 Uhr, Sa 9.30 Uhr - 20.00 Uhr, So 10.00 Uhr - 20:00
+
+@Abteilungsbestand
+Klinik-/Institutsbestände - i.d.R. nicht ausleihbar
+
+@LB
+EG - Lehrbuchsammlung
+Ausleihbarer Bestand mit grüner Kennzeichnung
+
+@LS
+1. OG - Nicht ausleihbarer Bestand
+
+@Mag
+Lager / geschlossenes Magazin
+
+Bestände sind bestellbar und ab 09:30 und 14:30 abholbar
 
 @imgwf
 Institutsbibliothek für Medizingeschichte und Wissenschaftsforschung
@@ -15,3 +42,6 @@ http://www.imgwf.uni-luebeck.de/bibliothek.html
 53.868678, 10.688365
 
 Mo, Di, Do 8:30-15:00, Mi 8:30-13.00, Fr  8.30-13.00
+
+@ZS
+2. OG - Zeitschriftenbestand
